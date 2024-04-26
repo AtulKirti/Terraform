@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/6d6ec94bb2909d75122df9cf17e1940b522a805587c890a2e37a57eba61f7eb1/68747470733a2f2f7777772e6461746f636d732d6173736574732e636f6d2f323838352f313632393934313234322d6c6f676f2d7465727261666f726d2d6d61696e2e737667" alt="Terraform" width="400">
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*ATNMu1nQTnIXauJYXlDDGw.png" alt="Terraform">
 </p>
 
 ## About this Repository
